@@ -15,3 +15,5 @@ A modern, animated landing page template for a cryptocurrency platform or blockc
 
 - HTML5
 - CSS3 (Vanilla, no libraries or frameworks)
+
+The gif I uploaded is low res, and much slower than the original webpage. Github didn't accept .mov, so the actual page is much better than the gif that can be seen, but it gives a rough idea.
